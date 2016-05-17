@@ -1,0 +1,6 @@
+/etc/default/isc-dhcp-server
+/etc/network/interfaces
+/etc/init.d/hostapd
+/etc/hostapd/hostapd.conf
+/etc/dhcp/dhcpd.conf
+/etc/dhcp/dhclient.conf

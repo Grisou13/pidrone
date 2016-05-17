@@ -1,0 +1,325 @@
+2016-05-14 11:41:25,259 [MainThread  ] [INFO ]  Server is listening for connections on port 5830 
+
+2016-05-14 11:41:41,930 [MainThread  ] [INFO ]  Server is listening for connections on port 5830 
+
+2016-05-14 11:43:03,015 [MainThread  ] [INFO ]  Server is listening for connections on port 5830 
+
+2016-05-14 11:47:52,842 [MainThread  ] [INFO ]  Server is listening for connections on port 5830 
+
+2016-05-14 12:07:19,483 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:14:36,095 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:30:49,294 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:46:04,369 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:47:33,236 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:33,236 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:33,237 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:33,240 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:33,240 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:33,240 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:36,899 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:36,900 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:36,900 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:36,902 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:36,902 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:36,902 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:38,680 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:38,680 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:38,681 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:38,683 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:38,683 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:38,684 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:39,818 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:39,819 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:39,820 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:39,821 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:39,821 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:39,822 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:40,764 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:40,764 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:40,764 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:40,765 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:40,765 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:40,766 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:42,451 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:42,452 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:42,452 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:42,454 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:42,454 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:42,454 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:46,244 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:46,244 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:46,245 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:46,247 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:46,247 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:46,247 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:47:47,162 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:47:47,162 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: get_status
+ 
+
+2016-05-14 12:47:47,163 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:47:47,168 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:47:47,168 [Dummy-2     ] [DEBUG]  sending back : 
+ You sent me: 
+
+ 
+
+2016-05-14 12:47:47,168 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:50:44,164 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:51:23,829 [Dummy-2     ] [INFO ]  get_status
+2016-05-14 12:51:23,830 [Dummy-2     ] [DEBUG]  sending back : You sent me: get_status 
+2016-05-14 12:51:23,830 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:51:23,840 [Dummy-2     ] [INFO ]  
+
+2016-05-14 12:51:23,840 [Dummy-2     ] [DEBUG]  sending back : You sent me: 
+ 
+2016-05-14 12:51:23,840 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:52:34,627 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:55:35,982 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:55:35,982 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:55:35,984 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:55:35,984 [Dummy-2     ] [DEBUG]  sending back : None 
+2016-05-14 12:57:32,250 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 12:58:12,907 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:12,908 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:12,909 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:12,910 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:27,043 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:27,044 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:27,045 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:27,046 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:29,241 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:29,242 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:29,243 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:29,244 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:29,691 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:29,692 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:29,693 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:29,694 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:29,889 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:29,890 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:29,891 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:29,892 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:30,088 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:30,089 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:30,091 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:30,091 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:30,277 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:30,278 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:30,280 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:30,280 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 12:58:30,491 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 12:58:30,491 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 12:58:30,494 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 12:58:30,495 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:01:06,186 [Dummy-4     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:01:06,187 [Dummy-4     ] [DEBUG]  sending back : init 
+2016-05-14 13:01:06,189 [Dummy-4     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:01:06,190 [Dummy-4     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:01:13,876 [Dummy-4     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:01:13,876 [Dummy-4     ] [DEBUG]  sending back : init 
+2016-05-14 13:01:13,881 [Dummy-4     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:01:13,881 [Dummy-4     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:02:31,452 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:04:05,886 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:04:17,249 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:04:17,250 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:04:17,252 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:04:17,252 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:04:48,432 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:04:56,899 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:04:56,899 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:04:56,901 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:04:56,901 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:05:02,210 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:05:02,211 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:05:02,213 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:05:02,213 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:05:15,252 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:05:15,252 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:05:15,254 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:05:15,254 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:17:24,706 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:17:52,585 [Dummy-2     ] [DEBUG]  received message from client: get_status
+2016-05-14 13:17:52,586 [Dummy-2     ] [DEBUG]  sending back : init 
+2016-05-14 13:17:52,590 [Dummy-2     ] [DEBUG]  received message from client: 
+
+2016-05-14 13:17:52,590 [Dummy-2     ] [DEBUG]  sending back : command not recognised 
+2016-05-14 13:18:23,896 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:21:14,487 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:21:22,952 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 39060)
+2016-05-14 13:21:23,077 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 46912)
+2016-05-14 13:22:01,190 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:22:04,375 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 35405)
+2016-05-14 13:22:04,474 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 39778)
+2016-05-14 13:22:37,813 [Dummy-3     ] [INFO ]  Accepted connection from: ('192.168.0.5', 53468)
+2016-05-14 13:22:37,933 [Dummy-4     ] [INFO ]  Accepted connection from: ('192.168.0.5', 34403)
+2016-05-14 13:23:53,240 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-14 13:23:57,578 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 40139)
+2016-05-14 13:23:57,735 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 58796)
+2016-05-14 13:24:27,771 [Dummy-3     ] [INFO ]  Accepted connection from: ('192.168.0.5', 33681)
+2016-05-14 13:24:27,889 [Dummy-4     ] [INFO ]  Accepted connection from: ('192.168.0.5', 45972)
+2016-05-14 13:24:42,608 [Dummy-5     ] [INFO ]  Accepted connection from: ('192.168.0.5', 40258)
+2016-05-14 13:24:42,769 [Dummy-6     ] [INFO ]  Accepted connection from: ('192.168.0.5', 34075)
+2016-05-14 13:24:57,683 [Dummy-7     ] [INFO ]  Accepted connection from: ('192.168.0.5', 52753)
+2016-05-14 13:24:57,810 [Dummy-8     ] [INFO ]  Accepted connection from: ('192.168.0.5', 35061)
+2016-05-14 13:26:10,215 [Dummy-9     ] [INFO ]  Accepted connection from: ('192.168.0.5', 34578)
+2016-05-14 13:26:10,334 [Dummy-10    ] [INFO ]  Accepted connection from: ('192.168.0.5', 40234)
+2016-05-14 13:27:20,157 [Dummy-11    ] [INFO ]  Accepted connection from: ('192.168.0.5', 51023)
+2016-05-14 13:27:20,285 [Dummy-12    ] [INFO ]  Accepted connection from: ('192.168.0.5', 45350)
+2016-05-14 14:03:45,945 [Dummy-13    ] [INFO ]  Accepted connection from: ('192.168.0.5', 49915)
+2016-05-14 14:03:46,078 [Dummy-14    ] [INFO ]  Accepted connection from: ('192.168.0.5', 60431)
+2016-05-15 23:21:06,092 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-15 23:21:08,371 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 55173)
+2016-05-15 23:21:08,727 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 40780)
+2016-05-15 23:22:37,955 [Dummy-3     ] [INFO ]  Accepted connection from: ('192.168.0.5', 56131)
+2016-05-15 23:22:38,437 [Dummy-4     ] [INFO ]  Accepted connection from: ('192.168.0.5', 35572)
+2016-05-15 23:36:03,888 [Dummy-5     ] [INFO ]  Accepted connection from: ('192.168.0.5', 34375)
+2016-05-15 23:36:04,081 [Dummy-6     ] [INFO ]  Accepted connection from: ('192.168.0.5', 40825)
+2016-05-15 23:38:30,368 [Dummy-7     ] [INFO ]  Accepted connection from: ('192.168.0.5', 54915)
+2016-05-15 23:38:30,509 [Dummy-8     ] [INFO ]  Accepted connection from: ('192.168.0.5', 45319)
+2016-05-15 23:38:52,869 [Dummy-9     ] [INFO ]  Accepted connection from: ('192.168.0.5', 48623)
+2016-05-15 23:38:53,095 [Dummy-10    ] [INFO ]  Accepted connection from: ('192.168.0.5', 40446)
+2016-05-15 23:39:37,241 [Dummy-11    ] [INFO ]  Accepted connection from: ('192.168.0.5', 60534)
+2016-05-15 23:39:37,370 [Dummy-12    ] [INFO ]  Accepted connection from: ('192.168.0.5', 60995)
+2016-05-15 23:40:19,095 [Dummy-13    ] [INFO ]  Accepted connection from: ('192.168.0.5', 54373)
+2016-05-15 23:40:19,203 [Dummy-14    ] [INFO ]  Accepted connection from: ('192.168.0.5', 57643)
+2016-05-15 23:45:30,526 [Dummy-15    ] [INFO ]  Accepted connection from: ('192.168.0.5', 55871)
+2016-05-15 23:45:30,784 [Dummy-16    ] [INFO ]  Accepted connection from: ('192.168.0.5', 35562)
+2016-05-15 23:46:28,221 [Dummy-17    ] [INFO ]  Accepted connection from: ('192.168.0.5', 51329)
+2016-05-15 23:46:28,406 [Dummy-18    ] [INFO ]  Accepted connection from: ('192.168.0.5', 59802)
+2016-05-15 23:49:06,362 [Dummy-8     ] [INFO ]  Accepted connection from: ('192.168.0.5', 44907)
+2016-05-15 23:49:06,545 [Dummy-19    ] [INFO ]  Accepted connection from: ('192.168.0.5', 36106)
+2016-05-15 23:49:12,724 [Dummy-20    ] [INFO ]  Accepted connection from: ('192.168.0.5', 43055)
+2016-05-15 23:49:12,857 [Dummy-21    ] [INFO ]  Accepted connection from: ('192.168.0.5', 50945)
+2016-05-15 23:54:12,225 [Dummy-22    ] [INFO ]  Accepted connection from: ('192.168.0.5', 36390)
+2016-05-15 23:54:12,453 [Dummy-23    ] [INFO ]  Accepted connection from: ('192.168.0.5', 57321)
+2016-05-15 23:55:16,369 [Dummy-24    ] [INFO ]  Accepted connection from: ('192.168.0.5', 59210)
+2016-05-15 23:55:16,495 [Dummy-25    ] [INFO ]  Accepted connection from: ('192.168.0.5', 50687)
+2016-05-15 23:56:33,189 [Dummy-26    ] [INFO ]  Accepted connection from: ('192.168.0.5', 50381)
+2016-05-15 23:56:33,397 [Dummy-27    ] [INFO ]  Accepted connection from: ('192.168.0.5', 33035)
+2016-05-15 23:57:47,424 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-15 23:57:52,171 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 50462)
+2016-05-15 23:57:52,281 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 33909)
+2016-05-16 00:00:04,009 [Dummy-3     ] [INFO ]  Accepted connection from: ('192.168.0.5', 45938)
+2016-05-16 00:00:04,231 [Dummy-4     ] [INFO ]  Accepted connection from: ('192.168.0.5', 40708)
+2016-05-16 00:03:20,129 [Dummy-5     ] [INFO ]  Accepted connection from: ('192.168.0.5', 59294)
+2016-05-16 00:03:20,484 [Dummy-6     ] [INFO ]  Accepted connection from: ('192.168.0.5', 35027)
+2016-05-16 00:06:30,437 [Dummy-7     ] [INFO ]  Accepted connection from: ('192.168.0.5', 53421)
+2016-05-16 00:06:30,676 [Dummy-8     ] [INFO ]  Accepted connection from: ('192.168.0.5', 51387)
+2016-05-16 00:07:22,898 [Dummy-9     ] [INFO ]  Accepted connection from: ('192.168.0.5', 36043)
+2016-05-16 00:07:23,013 [Dummy-10    ] [INFO ]  Accepted connection from: ('192.168.0.5', 57228)
+2016-05-16 00:07:55,793 [Dummy-11    ] [INFO ]  Accepted connection from: ('192.168.0.5', 49033)
+2016-05-16 00:07:55,980 [Dummy-12    ] [INFO ]  Accepted connection from: ('192.168.0.5', 41627)
+2016-05-16 00:10:18,120 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-16 00:10:26,425 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 33777)
+2016-05-16 00:10:26,526 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 58431)
+2016-05-16 00:11:11,859 [Dummy-3     ] [INFO ]  Accepted connection from: ('192.168.0.5', 33927)
+2016-05-16 00:11:11,976 [Dummy-4     ] [INFO ]  Accepted connection from: ('192.168.0.5', 43522)
+2016-05-16 00:11:56,628 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-16 00:12:28,923 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 44399)
+2016-05-16 00:12:29,063 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 60276)
+2016-05-16 00:13:54,944 [MainThread  ] [INFO ]  Server is listening for connections on port 53820 
+
+2016-05-16 00:13:58,863 [Dummy-1     ] [INFO ]  Accepted connection from: ('192.168.0.5', 47665)
+2016-05-16 00:13:59,003 [Dummy-2     ] [INFO ]  Accepted connection from: ('192.168.0.5', 34268)

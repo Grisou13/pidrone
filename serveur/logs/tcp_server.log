@@ -1,0 +1,364 @@
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 5830 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 5830 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 5830 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 5830 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:get_status
+DEBUG:root:sending back : 
+ You sent me: get_status
+ 
+
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : 
+ You sent me: 
+
+ 
+
+DEBUG:root:received message from client: 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:get_status
+DEBUG:root:sending back : You sent me: get_status 
+DEBUG:root:received message from client: get_status
+INFO:root:
+
+DEBUG:root:sending back : You sent me: 
+ 
+DEBUG:root:received message from client: 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : None 
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : command not recognised 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+DEBUG:root:received message from client: get_status
+DEBUG:root:sending back : init 
+DEBUG:root:received message from client: 
+
+DEBUG:root:sending back : command not recognised 
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 39060)
+INFO:root:Accepted connection from: ('192.168.0.5', 46912)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 35405)
+INFO:root:Accepted connection from: ('192.168.0.5', 39778)
+INFO:root:Accepted connection from: ('192.168.0.5', 53468)
+INFO:root:Accepted connection from: ('192.168.0.5', 34403)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 40139)
+INFO:root:Accepted connection from: ('192.168.0.5', 58796)
+INFO:root:Accepted connection from: ('192.168.0.5', 33681)
+INFO:root:Accepted connection from: ('192.168.0.5', 45972)
+INFO:root:Accepted connection from: ('192.168.0.5', 40258)
+INFO:root:Accepted connection from: ('192.168.0.5', 34075)
+INFO:root:Accepted connection from: ('192.168.0.5', 52753)
+INFO:root:Accepted connection from: ('192.168.0.5', 35061)
+INFO:root:Accepted connection from: ('192.168.0.5', 34578)
+INFO:root:Accepted connection from: ('192.168.0.5', 40234)
+INFO:root:Accepted connection from: ('192.168.0.5', 51023)
+INFO:root:Accepted connection from: ('192.168.0.5', 45350)
+INFO:root:Accepted connection from: ('192.168.0.5', 49915)
+INFO:root:Accepted connection from: ('192.168.0.5', 60431)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 55173)
+INFO:root:Accepted connection from: ('192.168.0.5', 40780)
+INFO:root:Accepted connection from: ('192.168.0.5', 56131)
+INFO:root:Accepted connection from: ('192.168.0.5', 35572)
+INFO:root:Accepted connection from: ('192.168.0.5', 34375)
+INFO:root:Accepted connection from: ('192.168.0.5', 40825)
+INFO:root:Accepted connection from: ('192.168.0.5', 54915)
+INFO:root:Accepted connection from: ('192.168.0.5', 45319)
+INFO:root:Accepted connection from: ('192.168.0.5', 48623)
+INFO:root:Accepted connection from: ('192.168.0.5', 40446)
+INFO:root:Accepted connection from: ('192.168.0.5', 60534)
+INFO:root:Accepted connection from: ('192.168.0.5', 60995)
+INFO:root:Accepted connection from: ('192.168.0.5', 54373)
+INFO:root:Accepted connection from: ('192.168.0.5', 57643)
+INFO:root:Accepted connection from: ('192.168.0.5', 55871)
+INFO:root:Accepted connection from: ('192.168.0.5', 35562)
+INFO:root:Accepted connection from: ('192.168.0.5', 51329)
+INFO:root:Accepted connection from: ('192.168.0.5', 59802)
+INFO:root:Accepted connection from: ('192.168.0.5', 44907)
+INFO:root:Accepted connection from: ('192.168.0.5', 36106)
+INFO:root:Accepted connection from: ('192.168.0.5', 43055)
+INFO:root:Accepted connection from: ('192.168.0.5', 50945)
+INFO:root:Accepted connection from: ('192.168.0.5', 36390)
+INFO:root:Accepted connection from: ('192.168.0.5', 57321)
+INFO:root:Accepted connection from: ('192.168.0.5', 59210)
+INFO:root:Accepted connection from: ('192.168.0.5', 50687)
+INFO:root:Accepted connection from: ('192.168.0.5', 50381)
+INFO:root:Accepted connection from: ('192.168.0.5', 33035)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 50462)
+INFO:root:Accepted connection from: ('192.168.0.5', 33909)
+INFO:root:Accepted connection from: ('192.168.0.5', 45938)
+INFO:root:Accepted connection from: ('192.168.0.5', 40708)
+INFO:root:Accepted connection from: ('192.168.0.5', 59294)
+INFO:root:Accepted connection from: ('192.168.0.5', 35027)
+INFO:root:Accepted connection from: ('192.168.0.5', 53421)
+INFO:root:Accepted connection from: ('192.168.0.5', 51387)
+INFO:root:Accepted connection from: ('192.168.0.5', 36043)
+INFO:root:Accepted connection from: ('192.168.0.5', 57228)
+INFO:root:Accepted connection from: ('192.168.0.5', 49033)
+INFO:root:Accepted connection from: ('192.168.0.5', 41627)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 33777)
+INFO:root:Accepted connection from: ('192.168.0.5', 58431)
+INFO:root:Accepted connection from: ('192.168.0.5', 33927)
+INFO:root:Accepted connection from: ('192.168.0.5', 43522)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 44399)
+INFO:root:Accepted connection from: ('192.168.0.5', 60276)
+INFO:root:starting server
+INFO:root:Server is listening for connections on port 53820 
+
+INFO:root:Accepted connection from: ('192.168.0.5', 47665)
+INFO:root:Accepted connection from: ('192.168.0.5', 34268)
