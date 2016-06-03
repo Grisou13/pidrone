@@ -24,12 +24,12 @@ MJPEG STREAMER https://github.com/jacksonliam/mjpg-streamer
  export LD_LIBRARY_PATH=/etc/mjpegstreamer
 
 
-
+PWM signal http://www.societyofrobots.com/robotforum/index.php?topic=4299.0
 
 
 Gesture mouvements for android on long press + drag: http://stackoverflow.com/questions/16747531/touch-movement-in-only-four-directions
 transfer string with socket http://stackoverflow.com/questions/17440795/send-a-string-instead-of-byte-through-socket-in-java
-
+send data via socket : https://github.com/omplanet/async-socket-android
 
 Better handler management http://www.androiddesignpatterns.com/2013/01/inner-class-handler-memory-leak.html
 

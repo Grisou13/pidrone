@@ -1,5 +1,0 @@
-#!/usr/bin/python3
-#a single file holding all the aplication logic, to be dispatched in a more modular way
-import ..server
-
-server.run()

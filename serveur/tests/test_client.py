@@ -46,9 +46,14 @@ class MySocket:
         return b''.join(chunks)
 if __name__ == '__main__':
     s = MySocket()
-    s.connect("127.0.0.1",53820)
+    s.connect(raw_input("ip ? >"),53820)
+    r=True
     try:
-        s.mysend("move up 100")
-        print("received in response > ",s.myreceive())
+        while r:
+            i = raw_input("command ? >")
+            s.mysend(i)
+            #s.mysend("move up 100")
+            print("received in response > ",s.myreceive())
     except KeyboardInterrupt as e:
-        raise
+        r=False
+        s.sock.close()

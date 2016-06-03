@@ -5,6 +5,10 @@ if [ "$(id -u)" != "0" ]; then
    exit 1
 fi
 BASE="/etc/pidrone"
+MJPEGSTREAMER="/etc/mjpegstreamer"
+rm -rf $BASE &> /dev/null
+rm -rf $MJPEGSTREAMER &> /dev/null
+rm -rf /tmp/* &> /dev/null
 #
 #clean up
 #
@@ -18,9 +22,23 @@ fi
 ###############################
 #libs
 ###############################
-#libjpeg8-dev
-apt-get update  && apt-get upgrade -y
-apt-get install -y libv4l-dev libjpeg-turbo-progs subversion imagemagick v4l-utils cmake git python python-pip arduino isc-dhcp-server imagemagick python3-dev python-dev python3 libbluetooth-dev git
+#libjpeg8-dev 
+apt-get update &> /dev/null
+apt-get upgrade -y &> /dev/null
+
+apt-get install -y libv4l-dev libjpeg8-dev libjpeg-turbo-progs\
+subversion imagemagick v4l-utils \
+git \
+arduino \
+isc-dhcp-server\
+imagemagick \
+python3-dev python3 python3-pip \
+libbluetooth-dev \
+make cmake
+
+#python things
+python3 -m pip install --upgrade pip
+
 #hosdtapd install guide https://github.com/IntelOpenDesign/MakerNode/wiki/hostapd:-compiling-instructions
 #install libnl required by hostapd
 git clone https://github.com/tgraf/libnl-1.1-stable.git /tmp/libnl
@@ -40,27 +58,38 @@ make install
 # tar xvzf mjpg-streamer.tar.gz
 # cd mjpg-streamer
 # make
-git clone https://github.com/jacksonliam/mjpg-streamer /etc/mjpegstreamer
-cd /etcm/jpegstreamer/mjpg-streamer-experimental
+git clone https://github.com/jacksonliam/mjpg-streamer $MJPEGSTREAMER
+cd $MJPEGSTREAMER/mjpg-streamer-experimental
 make
 make install
-export LD_LIBRARY_PATH=/etc/mjpegstreamer/mjpg-streamer-experimental
+export LD_LIBRARY_PATH=/usr/local/lib/mjpg-streamer
+cp $MJPEGSTREAMER/mjpg-streamer-experimental/input_raspicam.so /usr/local/lib/mjpg-streamer
+make /var/www
+cmhod 777 /var/www
 ###############################
 #install pidrone app
 ###############################
 if [[ $1 != "" && $1 == "d" ]]; then
   #statements
-  cp ~/pidrone/serveur $BASE
-else
-  git clone http://github.com/Grisou13/pidrone /tmp/pidrone
-  mv /tmp/pidrone/serveur $BASE
+  cp ~/pidrone/serveur $BASE &> /dev/null
+  if [[ -d "/home/pi/pidrone/serveur" ]]; then
+    cp /home/pi/pidrone/serveur $BASE &> /dev/null
+  fi
+  if [[ -d "/vagrant/serveur" ]]; then
+    cp /vagrant/serveur $BASE &> /dev/null
+  fi
+exit 0
 fi
 
+git clone http://github.com/Grisou13/pidrone /tmp/pidrone
+mv /tmp/pidrone/serveur $BASE
+
+
 cp $BASE/misc/etc/init.d/pidrone /etc/init.d/pidrone
-chmod 777 /etc/init.d/pidrone
-chmod 777 $BASE/bin/pidrone
+chmod 755 /etc/init.d/pidrone
+chmod 755 $BASE/server
 cd $BASE
-pip install -r packages.txt
+python3 -m pip install -r $BASE/packages.txt
 
 ###############################
 #config publishement
@@ -82,8 +111,8 @@ cp $BASE/misc/etc/network/interfaces /etc/network/interfaces
 #startup scripts
 ###############################
 update-rc.d pidrone defaults
-
-
+update-rc.d mjpegstreamer defaults
+update-rc.d hostapd defaults
 ###############################
 #paths
 ###############################
